@@ -4,4 +4,4 @@ env.component="shipping"
 env.app_lang = "maven"
 env.sonar_extra_opts = "-Dsonar.java.binaries=./target"
 
-ci()
+ci_scripted()
